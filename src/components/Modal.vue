@@ -9,6 +9,7 @@ export default {
     };
   },
   methods: {
+
     addInvoice() {
       if (
         this.title.length > 0 &&
